@@ -30,4 +30,4 @@ THEN I am prompted to select an employee to update and their new role and this i
 
 ## Site
 
-GitHub URL: 
+GitHub URL: https://github.com/shavanapuchta/Employee-Tracker
